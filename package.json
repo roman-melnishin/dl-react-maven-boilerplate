@@ -8,7 +8,7 @@
     "build": "BABEL_ENV=prod webpack -p"
   },
   "author": "Roman Melnishin",
-  "homepage": "https://github.com/roman-melnishin/react-maven-integration.git",
+  "homepage": "https://github.com/roman-melnishin/dl-react-maven-boilerplate",
   "devDependencies": {
     "babel-core": "^6.13.2",
     "babel-loader": "^6.2.4",
